@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 81223601,
+      "name": "Projeto-Calcule-Seu-IMC",
+      "owner": {
+        "login": "LucasBorgesDeCarvalho",
+        "avatar_url": "https://camo.githubusercontent.com/9cf25b5d964a7e1be29abe751f2358425a0ae4eb273306a86e9d3e23f2e3e8dc/68747470733a2f2f692e70696e696d672e636f6d2f373336782f39612f38302f35352f39613830353561393630666661626632386136333738643434393133616538322e6a7067"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/LucasBorgesDeCarvalho/Projeto-Calcule-Seu-IMC",
+      "description": "description"
+    },
+    {
+      "id": 183915325,
+      "name": "GitHub-Base",
+      "owner": {
+        "login": "LucasBorgesDeCarvalho",
+        "avatar_url": "https://camo.githubusercontent.com/9cf25b5d964a7e1be29abe751f2358425a0ae4eb273306a86e9d3e23f2e3e8dc/68747470733a2f2f692e70696e696d672e636f6d2f373336782f39612f38302f35352f39613830353561393630666661626632386136333738643434393133616538322e6a7067"
+      },
+      "html_url": "https://github.com/LucasBorgesDeCarvalho/LucasBorgesDeCarvalho",
+      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
+      "stargazers_count": 1,
+      "language": "Java"
+    },
+    {
+      "id": 378749135,
+      "name": "desafio-dio-soccer-news-api",
+      "owner": {
+        "login": "LucasBorgesDeCarvalho",
+        "avatar_url": "https://camo.githubusercontent.com/9cf25b5d964a7e1be29abe751f2358425a0ae4eb273306a86e9d3e23f2e3e8dc/68747470733a2f2f692e70696e696d672e636f6d2f373336782f39612f38302f35352f39613830353561393630666661626632386136333738643434393133616538322e6a7067"
+      },
+      "html_url": "https://github.com/LucasBorgesDeCarvalho/desafio-dio-soccer-news-api",
+      "description": "empty description",
+      "stargazers_count": 2,
+      "language": "Kotlin"
+    },
+    {
+      "id": 63367755,
+      "name": "desafio-dio-soccer-news-app",
+      "owner": {
+        "login": "LucasBorgesDeCarvalho",
+        "avatar_url": "https://camo.githubusercontent.com/9cf25b5d964a7e1be29abe751f2358425a0ae4eb273306a86e9d3e23f2e3e8dc/68747470733a2f2f692e70696e696d672e636f6d2f373336782f39612f38302f35352f39613830353561393630666661626632386136333738643434393133616538322e6a7067"
+      },
+      "html_url": "https://github.com/LucasBorgesDeCarvalho/desafio-dio-soccer-news-app",
+      "description": "empty description",
+      "stargazers_count": 3,
+      "language": "Objective-C"
+    },
+    {
+      "id": 63448974,
+      "name": "DioDesafio-GitHub-Primeiro-Repositorio",
+      "owner": {
+        "login": "LucasBorgesDeCarvalho",
+        "avatar_url": "https://camo.githubusercontent.com/9cf25b5d964a7e1be29abe751f2358425a0ae4eb273306a86e9d3e23f2e3e8dc/68747470733a2f2f692e70696e696d672e636f6d2f373336782f39612f38302f35352f39613830353561393630666661626632386136333738643434393133616538322e6a7067"
+      },
+      "html_url": "https://github.com/LucasBorgesDeCarvalho/DioDesafio-GitHub-Primeiro-Repositorio",
+      "description": "empty description",
+      "stargazers_count": 7,
+      "language": "Objective-C"
+    },
+    {
+      "id": 263680765,
+      "name": "Desafio-Construindo-BusinessCard-Em-Kotlin-DIO",
+      "owner": {
+        "login": "LucasBorgesDeCarvalho",
+        "avatar_url": "https://camo.githubusercontent.com/9cf25b5d964a7e1be29abe751f2358425a0ae4eb273306a86e9d3e23f2e3e8dc/68747470733a2f2f692e70696e696d672e636f6d2f373336782f39612f38302f35352f39613830353561393630666661626632386136333738643434393133616538322e6a7067"
+      },
+      "html_url": "https://github.com/LucasBorgesDeCarvalho/Desafio-Construindo-BusinessCard-Em-Kotlin-DIO",
+      "description": "empty description",
+      "stargazers_count": 1,
+      "language": "Empty"
+    }
+  ]
+}
